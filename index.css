@@ -33,7 +33,18 @@
 }
 /* elearning Institute stye ends */
 
+/* accrdding style strats */
 .according-text{
     text-align: justify;
 }
+/* accrdding style ends */
+
+ /*compannies style strats  */
+ .companies-img{
+    width: 150px;
+    height: 50px;
+    padding: 0 20px;
+    margin: 0 15px;
+ }
+ /*compannies style ends  */
 
