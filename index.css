@@ -21,11 +21,19 @@
 /* slider style starts */
 
 /* Popula Courses style strats */
-.courses-para{
+.courses-para, .students-para{
     color: #777777;;
 }
 /* Popula Courses style strats */
 
 /* elearning Institute stye strats */
+.elearning-img{
+    width: 100%;
+    height: 543px;
+}
 /* elearning Institute stye ends */
+
+.according-text{
+    text-align: justify;
+}
 
